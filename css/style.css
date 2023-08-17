@@ -3,7 +3,8 @@ body {
 }
 
 h1,
-p {
+p,
+a {
   text-align: center;
   color: aliceblue;
 }
@@ -21,3 +22,7 @@ footer a {
   display: block;
   margin: 40px auto;
 }
+.feta-link{
+  text-align: center;
+}
+
